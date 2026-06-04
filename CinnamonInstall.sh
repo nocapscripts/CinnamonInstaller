@@ -1,4 +1,4 @@
-k#!/bin/bash
+#!/bin/bash
 set -e  # Stop on any error
 
 echo "==> Syncing mirrors & updating package DB..."
